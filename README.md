@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 <h3>About me</h3>
 <p>
-  <strong>Software Engineering student</strong> at Mutah University (89.3 GPA, Honors) with a strong foundation in the SDLC. 
+  <strong>Software Engineering student</strong> at Mutah University (89.5 GPA, Honors) with a strong foundation in the SDLC. 
   Fast learner and dedicated team player focused on building scalable web applications using 
   <strong>ASP.NET Core</strong> and <strong>Node.js</strong>. I aim to utilize my 
   skills in software modeling and quality assurance to contribute to organizational goals.
